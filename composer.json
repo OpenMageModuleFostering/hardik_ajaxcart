@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Hardik_Ajaxcart",
+    "name": "OpenMageModuleFostering\/Hardik_Ajaxcart",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "provides ajax cart functionality. It is highly customizable.",
     "authors": [
-    {
-        "name": "Hardik Gajjar",
-        "email": "hardik.gajjar@krishinc.com"
-    }
-],
+        {
+            "name": "Hardik Gajjar",
+            "email": "hardik.gajjar@krishinc.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
